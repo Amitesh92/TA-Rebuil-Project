@@ -21,13 +21,13 @@
     "sass-loader": "^8.0.2",
     "style-loader": "^1.1.3",
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.3",
     "wepack-cli": "0.0.1-security",
     "sass": "^1.22.10"
   },
   "dependencies": {
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "jquery": "^3.4.1",
     "jquery-scrollify": "^1.0.20",
     "owl.carousel": "^2.3.4"
